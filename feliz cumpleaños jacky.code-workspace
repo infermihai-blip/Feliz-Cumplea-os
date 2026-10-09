@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/html"
+		},
+		{
+			"path": "los pericos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
